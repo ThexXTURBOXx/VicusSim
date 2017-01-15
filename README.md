@@ -21,5 +21,4 @@ Der Aufbau des Vicus basiert einzig und allein auf der Rekonstruktionszeichnung 
 
 ### Fehler oder Bug gefunden oder einfach nur Kontakt?
 
-Wenn du einen Fehler gefunden hast, dann melde ihn mir am Besten hier: [Fehler melden](https://github.com/ThexXTURBOXx/VicusSim2017/issues/new)
-Für weitere Fragen und sonstige Angelegenheiten, stehe ich Ihnen gerne hier zur Verfügung: [Email](mailto:nico.mexis@kabelmail.de)
+Wenn du einen Fehler gefunden hast, dann melde ihn mir am Besten hier: [Fehler melden](https://github.com/ThexXTURBOXx/VicusSim2017/issues/new)<br> Für weitere Fragen und sonstige Angelegenheiten, stehe ich Ihnen gerne hier zur Verfügung: [Email](mailto:nico.mexis@kabelmail.de)
