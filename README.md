@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Herzlich Willkommen!
 
-You can use the [editor on GitHub](https://github.com/ThexXTURBOXx/VicusSim/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Mein Name ist Nico Mexis, bin 17 Jahre alt und programmiere gerne in meiner Freizeit. Ich gehe am Karlsgymnasium Bad Reichenhall in die 12. Klasse und habe für meine W-Seminar-Präsentation dieses "Spiel" entwickelt.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Meine Seminararbeit hatte das Thema "Bedeutung der Lagerdörfer in der Nähe des Limes". Um das Thema anschaulicher zu gestalten, habe ich mir gedacht, dass ich einen Simulator schreibe, in dem man durch ein solches Lagerdorf (lat.: _vicus_) gehen kann.
 
-### Markdown
+Der Simulator wurde mithilfe der Engine "Unity Personal" geschrieben und basiert somit auf der Programmiersprache C#.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Verwendete Software
 
-```markdown
-Syntax highlighted code block
+Ich habe folgende Software verwendet:
+ - Unity Personal 5.5.0f3
+ - Blender 2.78a
+ - SketchUp Make 2017 Pro (30 Tage Demo) 17.0.18899
+ - Adobe Photoshop CS2 9.0.0
+ - InstallForge 1.3.2
 
-# Header 1
-## Header 2
-### Header 3
+### Quellen
 
-- Bulleted
-- List
+Der Aufbau des Vicus basiert einzig und allein auf der Rekonstruktionszeichnung C.C.Sommers (siehe Süsskind, Gabriele und Dr. Angelika Wigg: Der römische Limes in Deutschland. Sonderheft der Zeitschrift "Archäologie in Deutschland". Stuttgart: Konrad Theiss Verlag, 1992. ISBN: 9783806210241. S. 45.).
 
-1. Numbered
-2. List
+### Fehler oder Bug gefunden oder einfach nur Kontakt?
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ThexXTURBOXx/VicusSim/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Wenn du einen Fehler gefunden hast, dann melde ihn mir am Besten hier: [Fehler melden](https://github.com/ThexXTURBOXx/VicusSim2017/issues/new)
+Für weitere Fragen und sonstige Angelegenheiten, stehe ich Ihnen gerne hier zur Verfügung: [Email](mailto:nico.mexis@kabelmail.de)
