@@ -8,11 +8,11 @@ Der Simulator wurde mithilfe der Engine "Unity Personal" geschrieben und basiert
 
 ### Verwendete Software
 
-Ich habe folgende Software verwendet:
- - Unity Personal 5.5.0f3
- - Blender 2.78a
- - SketchUp Make 2017 Pro (30 Tage Demo) 17.0.18899
- - Adobe Photoshop CS2 9.0.0
+Ich habe folgende Software verwendet:<br>
+ - Unity Personal 5.5.0f3<br>
+ - Blender 2.78a<br>
+ - SketchUp Make 2017 Pro (30 Tage Demo) 17.0.18899<br>
+ - Adobe Photoshop CS2 9.0.0<br>
  - InstallForge 1.3.2
 
 ### Quellen
