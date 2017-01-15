@@ -4,7 +4,13 @@ Mein Name ist Nico Mexis, bin 17 Jahre alt und programmiere gerne in meiner Frei
 
 Meine Seminararbeit hatte das Thema "Bedeutung der Lagerdörfer in der Nähe des Limes". Um das Thema anschaulicher zu gestalten, habe ich mir gedacht, dass ich einen Simulator schreibe, in dem man durch ein solches Lagerdorf (lat.: _vicus_) gehen kann.
 
-Der Simulator wurde mithilfe der Engine "Unity Personal" geschrieben und basiert somit auf der Programmiersprache C#.
+Der Simulator wurde mithilfe der Engine "Unity Personal" geschrieben und basiert somit auf der Programmiersprache "C#".
+
+### Download
+
+Das Programm ist momentan für Windows, Mac und Linux verfügbar.<br>
+Ich selbst habe bisher noch keine Informationen zu Systemvoraussetzungen (auf meinem PC funktioniert der Simulator problemfrei. Spezifikationen meines PCs: 16 GB RAM, 4.0 GHz Prozessor, GTX 1060 6GB).<br>
+[![Windows](http://www.femtopedia.de/Win.png "Download für Windows")](http://www.femtopedia.de/Vicus Simulator 2017.exe) [![Mac](http://www.femtopedia.de/Mac.png "Download für Mac")](http://www.femtopedia.de/Vicus Simulator 2017 Mac.zip) [![Linux](http://www.femtopedia.de/Linux.png "Download für Linux")](http://www.femtopedia.de/Vicus Simulator 2017 Linux.zip)
 
 ### Verwendete Software und Dateien
 
@@ -14,7 +20,7 @@ Ich habe folgende Software verwendet:<br>
  - SketchUp Make 2017 Pro (30 Tage Demo) 17.0.18899<br>
  - Adobe Photoshop CS2 9.0.3<br>
  - InstallForge 1.3.2<br>
- - Dateien, die nicht von mir sind, wurden unter der Creative Commons License veröffentlicht und [hier](CCZitate) aufgelistet.
+ - Dateien, die in diesem Projekt verwendet werden und nicht von mir sind, werden [hier](CCZitate) aufgelistet.
 
 ### Quellen
 
