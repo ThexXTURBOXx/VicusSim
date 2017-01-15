@@ -6,14 +6,15 @@ Meine Seminararbeit hatte das Thema "Bedeutung der Lagerdörfer in der Nähe des
 
 Der Simulator wurde mithilfe der Engine "Unity Personal" geschrieben und basiert somit auf der Programmiersprache C#.
 
-### Verwendete Software
+### Verwendete Software und Dateien
 
 Ich habe folgende Software verwendet:<br>
  - Unity Personal 5.5.0f3<br>
  - Blender 2.78a<br>
  - SketchUp Make 2017 Pro (30 Tage Demo) 17.0.18899<br>
  - Adobe Photoshop CS2 9.0.0<br>
- - InstallForge 1.3.2
+ - InstallForge 1.3.2<br>
+ - Dateien, die nicht von mir sind, wurden unter der Creative Commons License veröffentlicht und sind somit ohne Angaben von Quellen zu benutzen, aber ich habe diese Dateien trotzdem [hier]() aufgelistet.
 
 ### Quellen
 
