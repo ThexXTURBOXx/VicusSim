@@ -12,7 +12,7 @@ Ich habe folgende Software verwendet:<br>
  - Unity Personal 5.5.0f3<br>
  - Blender 2.78a<br>
  - SketchUp Make 2017 Pro (30 Tage Demo) 17.0.18899<br>
- - Adobe Photoshop CS2 9.0.0<br>
+ - Adobe Photoshop CS2 9.0.3<br>
  - InstallForge 1.3.2<br>
  - Dateien, die nicht von mir sind, wurden unter der Creative Commons License veröffentlicht und [hier]() aufgelistet.
 
