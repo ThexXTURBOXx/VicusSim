@@ -1,6 +1,6 @@
 ## Herzlich Willkommen!
 
-Mein Name ist Nico Mexis, bin 17 Jahre alt und programmiere gerne in meiner Freizeit. Ich gehe am Karlsgymnasium Bad Reichenhall in die 12. Klasse und habe für meine W-Seminar-Präsentation dieses "Spiel" entwickelt.
+Mein Name ist Nico Mexis, bin 17 Jahre alt (Stand: 01/2017) und programmiere gerne in meiner Freizeit. Ich gehe am Karlsgymnasium Bad Reichenhall in die 12. Klasse (Stand: 01/2017) und habe für meine W-Seminar-Präsentation dieses "Spiel" entwickelt.
 
 Meine Seminararbeit hatte das Thema "Bedeutung der Lagerdörfer in der Nähe des Limes". Um das Thema anschaulicher zu gestalten, habe ich mir gedacht, dass ich einen Simulator schreibe, in dem man durch ein solches Lagerdorf (lat.: _vicus_) gehen kann.
 
