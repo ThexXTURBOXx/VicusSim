@@ -3,7 +3,6 @@
  - Ich selbst habe ein großes "V" mittels Photoshop hinzugefügt
  
 ## Hintergrundmusik
-
  - [Jake Chudnow - Going Down](https://www.youtube.com/watch?v=SLkpaZi1t9E)
  
 ## Das römische 3D-Kastell-Modell
