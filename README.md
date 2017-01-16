@@ -10,7 +10,7 @@ Der Simulator wurde mithilfe der Engine "Unity Personal" geschrieben und basiert
 
 Das Programm ist momentan für Windows, Mac und Linux verfügbar.<br>
 Ich selbst habe bisher noch keine Informationen zu Systemvoraussetzungen (auf meinem PC funktioniert der Simulator problemfrei. Spezifikationen meines PCs: 16 GB RAM, 4.0 GHz Prozessor, GTX 1060 6GB).<br>
-Letztes Update: 16/01/2017 (20:27 Uhr)
+Letztes Update: 16/01/2017 (20:27 Uhr)<br>
 [![Windows](http://www.femtopedia.de/Win.png "Download für Windows")](http://www.femtopedia.de/Vicus Simulator 2017.exe) [![Mac](http://www.femtopedia.de/Mac.png "Download für Mac")](http://www.femtopedia.de/Vicus Simulator 2017 Mac.zip) [![Linux](http://www.femtopedia.de/Linux.png "Download für Linux")](http://www.femtopedia.de/Vicus Simulator 2017 Linux.zip)
 
 ### Verwendete Software und Dateien
