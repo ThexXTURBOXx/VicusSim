@@ -8,7 +8,7 @@
 
 ## Streifenhaus-Bestandteile
  - Ich habe alle nachfolgig benannten Grafiken in Photoshop bearbeitet<br>
- - [Dunkle Holz-Textur](http://www.borongaja.com/data_images/out/7/601778-dark-wood.jpg)
- - [Fachwerk-Textur](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScZIHedpNwimn9LLU27fRtxhG6mY55wcs82fagOdZoKqQm10g8)
- - [Fenster-Textur](https://slm-assets1.secondlife.com/assets/374019/view_large/135607dae3562ffaaab86be1089c898d.jpg?1276974413)
+ - [Dunkle Holz-Textur](http://www.borongaja.com/data_images/out/7/601778-dark-wood.jpg)<br>
+ - [Fachwerk-Textur](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScZIHedpNwimn9LLU27fRtxhG6mY55wcs82fagOdZoKqQm10g8)<br>
+ - [Fenster-Textur](https://slm-assets1.secondlife.com/assets/374019/view_large/135607dae3562ffaaab86be1089c898d.jpg?1276974413)<br>
  - [Türe](http://www.europa-erfahren.de/upload/gr/fachwerk.jpg)
